@@ -1,4 +1,4 @@
-# 👋 Gabriel Liberato
+# Gabriel Liberato
 
 ## 🚀 Sobre mim
 Sou estudante de **Física** na **Unimontes (Universidade Estadual de Montes Claros)** e **Desenvolvedor de Software**, com foco em **Desenvolvimento Full Stack**.  
