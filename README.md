@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Gabriel Liberato
 
-<!--
-**galiba789/galiba789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+Sou estudante de **Física** na **Unimontes (Universidade Estadual de Montes Claros)** e **Desenvolvedor de Software**, com foco em **Desenvolvimento Full Stack**.  
+Tenho interesse em criar soluções eficientes, escaláveis e bem estruturadas, unindo lógica, performance e boas práticas de desenvolvimento.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experiência
+- **Estagiário em Desenvolvimento de Software** — *Ecommercent*  
+  📅 2024 – Atualmente
+
+---
+
+## 📬 Contato
+- 📧 Email: **gabriel.liberato109@gmail.com**
+- 💼 LinkedIn: [Gabriel Liberato](https://www.linkedin.com/in/gabriel-liberato-a3b446357/)
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Linguagens
+- PHP  
+- JavaScript  
+- TypeScript  
+- Bash  
+- Rust  
+
+### ⚙️ Frameworks & Bibliotecas
+- CodeIgniter 4 (CI4)  
+- Laravel  
+- Node.js  
+- Vue.js  
+- React  
+
+### 🧰 Outras Tecnologias
+- Git  
+- MySQL  
+- PostgreSQL  
+- Docker  
+
+---
